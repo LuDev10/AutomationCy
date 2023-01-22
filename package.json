@@ -1,0 +1,17 @@
+{
+  "name": "automationcy",
+  "version": "1.0.0",
+  "description": "Interacciones con funciones basicas y elementos en el Dom. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Luis Díaz",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.10.0"
+  }
+}
